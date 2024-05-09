@@ -4,9 +4,10 @@ Download the application from drive:
 https://drive.google.com/file/d/1keuAe0ZNcjcbdri84ShlG1ccNtqNAO3O/view?usp=sharing
 
 Video sample of the application
+
 https://github.com/sohail290204/PasswordGenerator/assets/94800241/3ed7a06d-3013-46f5-832d-4070169be3ba
 
 ![IMG-20240509-WA0009](https://github.com/sohail290204/PasswordGenerator/assets/94800241/fa05bd20-4c0b-457a-87c6-e822249b1087)
 ![IMG-20240509-WA0002](https://github.com/sohail290204/PasswordGenerator/assets/94800241/8ab2d322-0daf-41cd-8b09-53e87dec817f)
-![IMG-20240509-WA0001](https://github.com/sohail290204/PasswordGenerator/assets/94800241/c26bc8c4-49c4-49a7-83be-34207f2f38cd)
-![IMG-20240509-WA0004](https://github.com/sohail290204/PasswordGenerator/assets/94800241/52ee7099-b266-4c11-b3a3-7ba05260c932)
+
+
